@@ -1,14 +1,16 @@
 ### Hi there 👋
+### I'm Maxim Abavi/
+- 🔭 I’m currently working on Python:
+<div id="header" align="center">
+  <img src="https://inspector.dev/wp-content/uploads/2023/04/logo-python-django-300x99.png" width="100"/>
+</div>
 
 <!--
 **afghan1363/afghan1363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Python
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdmbjl2OGR4bWlsamtmMjd0emJ1NHRwcDFnem50N2VrMm45M3NqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
-</div>
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
