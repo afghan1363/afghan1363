@@ -9,6 +9,12 @@
   <img src="https://timeweb.com/media/default/0001/01/7de8a5546252f62982c4536cd44b5d674c44e5d8.png" width="100"/>
   <img src="https://nuts-agency.ru/upload/iblock/c85/c85c41cb1a6a982a82cb858f4f3ff23f.png" width="60"/>
 </div>
+- My projects, where I used that skills:
+<div class="row">
+  <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="https://github.com/afghan1363/AtomicHabits">Atomic Habits</a><br/>
+  <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="https://github.com/afghan1363/newsletter_service">Newsletter Service</a><br/>
+  <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="https://github.com/afghan1363/parse_vacantions">Parsing vacantions from hh.ru and superjob.ru</a><br/>
+</div>
 
 <!--
 **afghan1363/afghan1363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
